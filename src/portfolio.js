@@ -37,8 +37,8 @@ const projects = [
     description:
       'This project is a dynamic portfolio website built for a tech team of six members. Developed using Bootstrap for a responsive and modern front-end, PHP for server-side logic, and WAMP Server (Windows, Apache, MySQL, PHP) for local development and database management.',
     stack: [ 'Bootstrap', 'php', 'MySQL'],
-    sourceCode: 'https://github.com/mahlet-16/Helix-s-Portfolio', // Placeholder link
-    livePreview: ' https://mahlet-16.github.io/Helix-s-Portfolio/', // Placeholder link
+    sourceCode: 'https://github.com/mahlet-16/Helix-s-Portfolio', 
+    livePreview: ' https://mahlet-16.github.io/Helix-s-Portfolio/', 
   },
   {
     name: 'EventManagement API',
