@@ -10,7 +10,7 @@ const about = {
     'A passionate and dedicated Computer Science student with a strong focus on backend development using Django. Experienced in building scalable web applications, designing RESTful APIs, and managing databases. Passionate about writing clean, efficient code and continuously improving backend performance. Eager to apply problem-solving skills and technical expertise to real-world projects',
   resume: 'https://docs.google.com/document/d/1nnWdaYazKrKokAbxq78-W5NWYQEuYUGZ5xRxugdZBks/edit?tab=t.0', // Update with actual resume link if available
   social: {
-    linkedin: 'https://www.linkedin.com/in/mihret-tsegaye-nega/', // Update with actual LinkedIn profile link
+    linkedin: 'https://www.linkedin.com/in/mahlet-amenu16/', // Update with actual LinkedIn profile link
     github: 'https://github.com/mahlet-16', // Update with actual GitHub profile link
   },
 }
@@ -53,6 +53,20 @@ const projects = [
       'TThis project is a backend-only system built with Django to manage the sale of skincare products. It exposes a RESTful API that handles product listings, customer orders, inventory management, and user authentication. The backend is designed to easily integrate with any frontend website, mobile app, or admin dashboard.',
     stack: [ 'Django'],
     sourceCode: 'https://github.com/mahlet-16/project_2/tree/main', // Placeholder link
+  },
+  {
+    name: 'Library Project',
+    description:
+      'This project is a full-stack web application designed to simplify the management of books, users, and borrowing activities in a library.',
+    stack: [ 'Django'],
+    sourceCode: 'https://github.com/mahlet-16/Alx_DjangoLearnLab/tree/main/advanced_features_and_security/LibraryProject', // Placeholder link
+  },
+  {
+    name: 'Social media API',
+    description:
+      'This project is a fully functional Social Media API built using Django and Django REST Framework. It provides the backend logic and endpoints for a basic social platform where users can create profiles, post content, interact through likes and comments, and follow/unfollow other users.',
+    stack: [ 'Django'],
+    sourceCode: 'https://github.com/mahlet-16/Alx_DjangoLearnLab/tree/main/social_media_api', // Placeholder link
   },
 ]
 

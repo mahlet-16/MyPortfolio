@@ -10,7 +10,7 @@ const Footer = () => (
       <a href="https://github.com/mahlet-16" className="footer-link"> Mahlet Amenu</a>
     </p>
     <div className="social-links text-center">
-      <a href="https://www.linkedin.com/in/mihret-tsegaye-nega/" className="link" aria-label="LinkedIn">
+      <a href="https://www.linkedin.com/in/mahlet-amenu16/" className="link" aria-label="LinkedIn">
         <i className="fab fa-linkedin" />
       </a>
       <a href="https://t.me/maltb" className="link" aria-label="Telegram">
