@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mercycermy.github.io/portfolio",
+  "homepage": "https://mahlet-16.github.io/MyPortfolio/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.1",
     "@material-ui/core": "^4.12.3",
@@ -27,6 +27,7 @@
     "eject": "react-scripts eject --openssl-legacy-provider",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": {
