@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://mihrettsegaye.github.io/portfolio', // Update with actual portfolio link if available
+  homepage: 'https://mahlet-16.github.io/MyPortfolio/', // Update with actual portfolio link if available
   title: 'MA',
 }
 
