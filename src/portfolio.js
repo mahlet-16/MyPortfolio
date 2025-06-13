@@ -78,6 +78,7 @@ const skills = [
   'Java',
   'bootstrap',
   'c++',
+  'javascript',
   
 ]
 
